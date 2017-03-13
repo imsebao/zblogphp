@@ -1,4 +1,4 @@
-Z-BlogPHP
+Z-BlogPHP1
 =============
 
 Z-BlogPHP是由RainbowSoft Studio团队开发的博客程序，基于高效的PHP环境，体积小，速度快，支持比较大的数据量。
